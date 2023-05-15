@@ -13,8 +13,8 @@ const Footer = () => {
                         "#fff", marginRight: "2rem"}} />
 
                         <div>
-                            <p> 123 Housing Society </p>
-                            <p> Bangladesh </p>
+                            <p> Nairobi </p>
+                            <p> Kenya </p>
                         </div>
 
                 </div>
