@@ -12,8 +12,9 @@
 .about .left{
     text-align: center;
     margin: auto;
-    padding: 1rem;
-    max-width: 350px;
+    padding: 0.5rem;
+    max-width: 1120px;
+    word-spacing: 60%;
 }
 
 .about .left p{
