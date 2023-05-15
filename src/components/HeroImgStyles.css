@@ -48,12 +48,12 @@
 }
 
 .content .btn{
-    margin: 1rem 0.5rem;
+    margin: 0.6rem 0.3rem;
     /* border-radius: 30%; */
     /* border-end-end-radius: 20%; */
 }
 
-@media screen and (max-width:640px){
+@media screen and (max-width:400px){
     .hero .content h1{
         font-size: 2rem;
         
