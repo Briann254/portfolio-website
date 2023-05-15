@@ -1,5 +1,4 @@
 import pro1 from "../assets/code.jpeg"
-import pro2 from "../assets/download (1).jpeg"
 import pro3 from "../assets/download.jpeg"
 
 
@@ -12,7 +11,7 @@ const ProjectCardData =[
     },
 
     {
-        imgsrc: pro2,
+        imgsrc: pro1,
         title: "Another",
         text: " HAiya hapa",
         view: "https://github.com/smartrecruits",
@@ -26,21 +25,21 @@ const ProjectCardData =[
     },
 
     {
-        imgsrc: pro2,
+        imgsrc: pro1,
         title: "Another",
         text: " HAiya hapa",
         view: "https://github.com/smartrecruits",
     },
 
     {
-        imgsrc: pro3,
+        imgsrc: pro1,
         title: "Number 3",
         text: " HAiya ha[a",
         view: "https://github.com/smartrecruits",
     },
 
     {
-        imgsrc: pro2,
+        imgsrc: pro3,
         title: "Another",
         text: " HAiya hapa",
         view: "https://github.com/smartrecruits",
