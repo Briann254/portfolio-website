@@ -10,7 +10,8 @@
 
 body{
   /* background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); */
-  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  /* background-image: linear-gradient(to right, #434343 0%, black 100%); */
+  background-image: linear-gradient(to right, #29241c, #301f1b, #321b22, #2b1b2e, #0f1f39);
 }
 
 h1, h4, p, a{
